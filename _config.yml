@@ -6,7 +6,7 @@ logo: 'assets/images/tbphp_logo_notext.png'
 baseurl: /blog
 google_analytics: ''
 disqus: 'tbphp'
-mailchimp-list: ''
+# mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
