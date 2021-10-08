@@ -119,8 +119,6 @@ section.recent-posts {
 .maxthumb {
     max-height: 300px;
     overflow: hidden;
-    background-position: center center;
-    background-repeat: no-repeat;
 }
 
 .listfeaturedtag .card,
@@ -846,8 +844,14 @@ iframe {
     }
 }
 
-.card .img-fluid {
+.card {
     width: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.img-fluid {
+    width: 100%;
+    
 }
 
 .sticky-top-80 {
