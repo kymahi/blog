@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Seattle Draft Picks"
-author: kyle, jon, austin
+author: [ kyle, jon, austin ]
 categories: [ Seattle Kraken, Expansion Draft, Predictions ]
 tags: [ seattle, kraken, expansion, draft, nhl, prediction, podcast ]
 image: /assets/images/kraken_logo.png
