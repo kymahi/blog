@@ -3,6 +3,7 @@ title: "Font Awesome Attribution"
 description: "Font Awesome Attribution"
 featured: false
 hidden: true
+comments: false
 ---
 
 Font Awesome icons used with permission via <a href="https://fontawesome.com/license" target="_blank">Font Awesome License</a>
