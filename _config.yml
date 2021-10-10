@@ -15,7 +15,7 @@ authors:
   kyle:
     name: Kyle
     display_name: Kyle
-    gravatar: 4f6fb9dd5019b779f54d8c47441f1d28
+    gravatar: fa5d50272143b919a64efd03d00678ec
     email: bestpuckin@gmail.com
     web: https://bestpuckin.com
     twitter: https://twitter.com/bestpuckin
@@ -23,8 +23,8 @@ authors:
   jon:
     name: Jon
     display_name: Jon    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
+#    avatar: 'assets/images/avatar.png'
+#    gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: bestpuckin@gmail.com
     web: https://bestpuckin.com
     twitter: https://twitter.com/bestpuckin
@@ -32,8 +32,8 @@ authors:
   austin:
     name: Austin
     display_name: Austin    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
+#    avatar: 'assets/images/avatar.png'
+#    gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: bestpuckin@gmail.com
     web: https://bestpuckin.com
     twitter: https://twitter.com/bestpuckin
