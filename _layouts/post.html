@@ -33,10 +33,14 @@ post_class: post-template
                     </div>
                     <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
                         <row>
-                            <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+                            <col class="col-xs-12 text-center text-lg-left">
+                                <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+                            </col>
                         </row>
                         <row>
-                            <span class="author-description">{{ author.description }}</span>
+                            <col class="col-xs-12 text-center text-lg-left">
+                                <span class="author-description">{{ author.description }}</span>
+                            </col>
                         </row>
                     </div>
                 </div>
