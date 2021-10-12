@@ -29,7 +29,7 @@ comments: true
       ## Kyle's Picks
     </div>
     <div class="row">
-      <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBTHAZ8VJG3FuP4tWjsPI2zwYvb1ahDuBsgGTksQLQEGolF8W2Mi7xZJmLO_4tVoYZjArqMUFC8HWE/pubhtml?gid=875217170&amp;single=true&amp;widget=true&amp;headers=false" />
+      <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBTHAZ8VJG3FuP4tWjsPI2zwYvb1ahDuBsgGTksQLQEGolF8W2Mi7xZJmLO_4tVoYZjArqMUFC8HWE/pubhtml?gid=875217170&amp;single=true&amp;widget=true&amp;headers=false" height="800"/>
     </div>
   </div>
 </div>
