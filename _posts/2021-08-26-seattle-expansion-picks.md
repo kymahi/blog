@@ -13,20 +13,20 @@ comments: true
 
 <div class="row">
   <div class="col-sm-12 col-md-6 col-lg-3">
-    ## Seattle's Picks
+    <h2>Seattle's Picks</h2>
   </div>
   
   <div class="col-sm-12 col-md-6 col-lg-3">
-    ## Austin's Picks
+    <h2>Austin's Picks</h2>
   </div>
 
   <div class="col-sm-12 col-md-6 col-lg-3">
-    ## Jon's Picks
+    <h2>Jon's Picks</h2>
   </div>
 
   <div class="col-sm-12 col-md-6 col-lg-3">
     <div class="row">
-      ## Kyle's Picks
+      <h2>Kyle's Picks</h2>
     </div>
     <div class="row">
       <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBTHAZ8VJG3FuP4tWjsPI2zwYvb1ahDuBsgGTksQLQEGolF8W2Mi7xZJmLO_4tVoYZjArqMUFC8HWE/pubhtml?gid=875217170&amp;single=true&amp;widget=true&amp;headers=false" height="800"/>
