@@ -11,8 +11,8 @@ hidden: false
 comments: true
 ---
 
-<div class="row text-center">
-    <div class="col-sm-12 col-md-6 col-lg-3">
+<div class="row d-flex justify-content-center">
+    <div class="col-sm-12 col-md-6">
         <div class="row">
             <h3>Seattle's Picks</h3>
         </div>
@@ -270,7 +270,7 @@ comments: true
         </div>
     </div>
 
-    <div class="col-sm-12 col-md-6 col-lg-3">
+    <div class="col-sm-12 col-md-6">
         <div class="row">
             <h3>Austin's Picks</h3>
         </div>
@@ -529,7 +529,7 @@ comments: true
         </div>
     </div>
 
-    <div class="col-sm-12 col-md-6 col-lg-3">
+    <div class="col-sm-12 col-md-6">
         <div class="row">
             <h3>Jon's Picks</h3>
         </div>
@@ -787,7 +787,7 @@ comments: true
         </div>
     </div>
 
-    <div class="col-sm-12 col-md-6 col-lg-3">
+    <div class="col-sm-12 col-md-6">
         <div class="row">
             <h3>Kyle's Picks</h3>
         </div>
