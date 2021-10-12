@@ -17,13 +17,13 @@ comments: true
       <h3>Seattle's Picks</h3>
     </div>
     <div class="row">
-      <div class="div div-bordered div-hover div-condensed" style='font-family:"Courier New", Courier, monospace; font-size:70%'>
+      <div class="div div-bordered div-hover div-condensed" style='font-size:70%'>
   <div class="row">
     <div class="col">
       Team
     </div>
     <div class="col">
-      Drafted Player
+      Player
     </div>
   </div>
   <div class="row">
@@ -279,13 +279,13 @@ comments: true
       <h3>Jon's Picks</h3>
     </div>
     <div class="row">
-      <div class="div div-bordered div-hover div-condensed" style='font-family:"Courier New", Courier, monospace; font-size:70%'>
+      <div class="div div-bordered div-hover div-condensed" style='font-size:70%'>
   <div class="row">
     <div class="col">
       Team
     </div>
     <div class="col">
-      Drafted Player
+      Player
     </div>
   </div>
   <div class="row">
@@ -538,13 +538,13 @@ comments: true
     </div>
     <div class="row">
       <!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBTHAZ8VJG3FuP4tWjsPI2zwYvb1ahDuBsgGTksQLQEGolF8W2Mi7xZJmLO_4tVoYZjArqMUFC8HWE/pubhtml?widget=true&amp;headers=false" height="770"></iframe> -->
-      <div class="div div-bordered div-hover div-condensed" style='font-family:"Courier New", Courier, monospace; font-size:70%'>
+      <div class="div div-bordered div-hover div-condensed" style='font-size:70%'>
   <div class="row">
     <div class="col">
       Team
     </div>
     <div class="col">
-      Drafted Player
+      Player
     </div>
   </div>
   <div class="row">
