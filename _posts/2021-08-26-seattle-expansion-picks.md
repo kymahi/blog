@@ -12,7 +12,7 @@ comments: true
 ---
 
 <div class="row">
-    <div class="col-sm-12 col-md-6 justify-content-center">
+    <div class="col-sm-12 col-md-6 col-lg-4">
         <div class="row">
             <h4>Seattle's Picks</h4>
         </div>
@@ -270,7 +270,7 @@ comments: true
         </div>
     </div>
 
-    <div class="col-sm-12 col-md-6 justify-content-center">
+    <div class="col-sm-12 col-md-6 col-lg-4">
         <div class="row">
             <h4>Jon's Picks</h4>
         </div>
@@ -528,7 +528,7 @@ comments: true
         </div>
     </div>
 
-    <div class="col-sm-12 col-md-6 justify-content-center">
+    <div class="col-sm-12 col-md-6 col-lg-4">
         <div class="row">
             <h4>Kyle's Picks</h4>
         </div>
