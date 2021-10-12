@@ -12,13 +12,13 @@ comments: true
 ---
 
 <div class="row text-center">
-    <div class="col-sm-12 col-md-6">
-        <div class="row no-gutters">
+    <div class="col-sm-12 col-md-6 col-lg-3">
+        <div class="row">
             <h3>Seattle's Picks</h3>
         </div>
-        <div class="row no-gutters">
+        <div class="row">
             <div class="div div-bordered div-hover div-condensed" style='font-size:70%'>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Team
                     </div>
@@ -26,7 +26,7 @@ comments: true
                         Player
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Anaheim
                     </div>
@@ -34,7 +34,7 @@ comments: true
                         Haydn Fleury
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Arizona
                     </div>
@@ -42,7 +42,7 @@ comments: true
                         Tyler Pitlick
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Boston
                     </div>
@@ -50,7 +50,7 @@ comments: true
                         Jeremy Lauzon
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Buffalo
                     </div>
@@ -58,7 +58,7 @@ comments: true
                         William Borgen
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Calgary
                     </div>
@@ -66,7 +66,7 @@ comments: true
                         Mark Giordano
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Carolina
                     </div>
@@ -74,7 +74,7 @@ comments: true
                         Morgan Geekie
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Chicago
                     </div>
@@ -82,7 +82,7 @@ comments: true
                         John Quenneville
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Colorado
                     </div>
@@ -90,7 +90,7 @@ comments: true
                         Joonas Donskoi
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Columbus
                     </div>
@@ -98,7 +98,7 @@ comments: true
                         Gavin Bayreuther
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Dallas
                     </div>
@@ -106,7 +106,7 @@ comments: true
                         Jamie Oleksiak
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Detroit
                     </div>
@@ -114,7 +114,7 @@ comments: true
                         Dennis Cholowski
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Edmonton
                     </div>
@@ -122,7 +122,7 @@ comments: true
                         Adam Larsson
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Florida
                     </div>
@@ -130,7 +130,7 @@ comments: true
                         Chris Driedger
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Los Angeles
                     </div>
@@ -138,7 +138,7 @@ comments: true
                         Travis MacDermid
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Minnesota
                     </div>
@@ -146,7 +146,7 @@ comments: true
                         Carson Soucy
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Montreal
                     </div>
@@ -154,7 +154,7 @@ comments: true
                         Cale Fleury
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Nashville
                     </div>
@@ -162,7 +162,7 @@ comments: true
                         Calle Jarnkrok
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         New Jersey
                     </div>
@@ -170,7 +170,7 @@ comments: true
                         Nathan Bastian
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         NYI
                     </div>
@@ -178,7 +178,7 @@ comments: true
                         Jordan Eberle
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         NYR
                     </div>
@@ -186,7 +186,7 @@ comments: true
                         Colin Blackwell
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Ottawa
                     </div>
@@ -194,7 +194,7 @@ comments: true
                         Joey Daccord
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Philadelphia
                     </div>
@@ -202,7 +202,7 @@ comments: true
                         Carsen Twarynski
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Pittsburgh
                     </div>
@@ -210,7 +210,7 @@ comments: true
                         Brandon Tanev
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         San Jose
                     </div>
@@ -218,7 +218,7 @@ comments: true
                         Alexander True
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         St. Louis
                     </div>
@@ -226,7 +226,7 @@ comments: true
                         Vince Dunn
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Tampa Bay
                     </div>
@@ -234,7 +234,7 @@ comments: true
                         Yanni Gourde
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Toronto
                     </div>
@@ -242,7 +242,7 @@ comments: true
                         Jared McCann
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Vancouver
                     </div>
@@ -250,7 +250,7 @@ comments: true
                         Kole Lind
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Washington
                     </div>
@@ -258,7 +258,7 @@ comments: true
                         Vitek Vanecek
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Winnipeg
                     </div>
@@ -270,14 +270,14 @@ comments: true
         </div>
     </div>
 
-    <div class="col-sm-12 col-md-6">
-        <div class="row no-gutters">
+    <div class="col-sm-12 col-md-6 col-lg-3">
+        <div class="row">
             <h3>Austin's Picks</h3>
         </div>
 
-        <div class="row no-gutters">
+        <div class="row">
             <div class="div div-bordered div-hover div-condensed" style='font-size:70%'>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Team
                     </div>
@@ -285,7 +285,7 @@ comments: true
                         Player
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Anaheim
                     </div>
@@ -293,7 +293,7 @@ comments: true
                         Haydn Fleury
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Arizona
                     </div>
@@ -301,7 +301,7 @@ comments: true
                         Tyler Pitlick
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Boston
                     </div>
@@ -309,7 +309,7 @@ comments: true
                         Jeremy Lauzon
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Buffalo
                     </div>
@@ -317,7 +317,7 @@ comments: true
                         William Borgen
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Calgary
                     </div>
@@ -325,7 +325,7 @@ comments: true
                         Mark Giordano
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Carolina
                     </div>
@@ -333,7 +333,7 @@ comments: true
                         Morgan Geekie
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Chicago
                     </div>
@@ -341,7 +341,7 @@ comments: true
                         John Quenneville
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Colorado
                     </div>
@@ -349,7 +349,7 @@ comments: true
                         Joonas Donskoi
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Columbus
                     </div>
@@ -357,7 +357,7 @@ comments: true
                         Gavin Bayreuther
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Dallas
                     </div>
@@ -365,7 +365,7 @@ comments: true
                         Jamie Oleksiak
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Detroit
                     </div>
@@ -373,7 +373,7 @@ comments: true
                         Dennis Cholowski
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Edmonton
                     </div>
@@ -381,7 +381,7 @@ comments: true
                         Adam Larsson
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Florida
                     </div>
@@ -389,7 +389,7 @@ comments: true
                         Chris Driedger
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Los Angeles
                     </div>
@@ -397,7 +397,7 @@ comments: true
                         Travis MacDermid
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Minnesota
                     </div>
@@ -405,7 +405,7 @@ comments: true
                         Carson Soucy
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Montreal
                     </div>
@@ -413,7 +413,7 @@ comments: true
                         Cale Fleury
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Nashville
                     </div>
@@ -421,7 +421,7 @@ comments: true
                         Calle Jarnkrok
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         New Jersey
                     </div>
@@ -429,7 +429,7 @@ comments: true
                         Nathan Bastian
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         NYI
                     </div>
@@ -437,7 +437,7 @@ comments: true
                         Jordan Eberle
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         NYR
                     </div>
@@ -445,7 +445,7 @@ comments: true
                         Colin Blackwell
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Ottawa
                     </div>
@@ -453,7 +453,7 @@ comments: true
                         Joey Daccord
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Philadelphia
                     </div>
@@ -461,7 +461,7 @@ comments: true
                         Carsen Twarynski
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Pittsburgh
                     </div>
@@ -469,7 +469,7 @@ comments: true
                         Brandon Tanev
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         San Jose
                     </div>
@@ -477,7 +477,7 @@ comments: true
                         Alexander True
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         St. Louis
                     </div>
@@ -485,7 +485,7 @@ comments: true
                         Vince Dunn
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Tampa Bay
                     </div>
@@ -493,7 +493,7 @@ comments: true
                         Yanni Gourde
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Toronto
                     </div>
@@ -501,7 +501,7 @@ comments: true
                         Jared McCann
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Vancouver
                     </div>
@@ -509,7 +509,7 @@ comments: true
                         Kole Lind
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Washington
                     </div>
@@ -517,7 +517,7 @@ comments: true
                         Vitek Vanecek
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Winnipeg
                     </div>
@@ -529,13 +529,13 @@ comments: true
         </div>
     </div>
 
-    <div class="col-sm-12 col-md-6">
-        <div class="row no-gutters">
+    <div class="col-sm-12 col-md-6 col-lg-3">
+        <div class="row">
             <h3>Jon's Picks</h3>
         </div>
-        <div class="row no-gutters">
+        <div class="row">
             <div class="div div-bordered div-hover div-condensed" style='font-size:70%'>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Team
                     </div>
@@ -543,7 +543,7 @@ comments: true
                         Player
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Anaheim
                     </div>
@@ -551,7 +551,7 @@ comments: true
                         Adam Henrique
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Arizona
                     </div>
@@ -559,7 +559,7 @@ comments: true
                         Ilya Lyubushkin
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Boston
                     </div>
@@ -567,7 +567,7 @@ comments: true
                         Jeremy Lauzon
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Buffalo
                     </div>
@@ -575,7 +575,7 @@ comments: true
                         Dustin Tokarski
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Calgary
                     </div>
@@ -583,7 +583,7 @@ comments: true
                         Brett Ritchie
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Carolina
                     </div>
@@ -591,7 +591,7 @@ comments: true
                         Nino Niederreiter
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Chicago
                     </div>
@@ -599,7 +599,7 @@ comments: true
                         Nikita Zadorov
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Colorado
                     </div>
@@ -607,7 +607,7 @@ comments: true
                         Joonas Donskoi
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Columbus
                     </div>
@@ -615,7 +615,7 @@ comments: true
                         Kevin Stenlund
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Dallas
                     </div>
@@ -623,7 +623,7 @@ comments: true
                         Ben Bishop
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Detroit
                     </div>
@@ -631,7 +631,7 @@ comments: true
                         Kaden Fulcher
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Edmonton
                     </div>
@@ -639,7 +639,7 @@ comments: true
                         Oscar Klefbom
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Florida
                     </div>
@@ -647,7 +647,7 @@ comments: true
                         Radko Gudas
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Los Angeles
                     </div>
@@ -655,7 +655,7 @@ comments: true
                         Carl Grundstrom
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Minnesota
                     </div>
@@ -663,7 +663,7 @@ comments: true
                         Kaapo Kahkonen
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Montreal
                     </div>
@@ -671,7 +671,7 @@ comments: true
                         Cale Fleury
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Nashville
                     </div>
@@ -679,7 +679,7 @@ comments: true
                         Matthew Benning
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         New Jersey
                     </div>
@@ -687,7 +687,7 @@ comments: true
                         Nathan Bastian
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         NYI
                     </div>
@@ -695,7 +695,7 @@ comments: true
                         Jordan Eberle
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         NYR
                     </div>
@@ -703,7 +703,7 @@ comments: true
                         Julien Gauthier
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Ottawa
                     </div>
@@ -711,7 +711,7 @@ comments: true
                         Joshua Brown
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Philadelphia
                     </div>
@@ -719,7 +719,7 @@ comments: true
                         James van Riemsdyk
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Pittsburgh
                     </div>
@@ -727,7 +727,7 @@ comments: true
                         Brandon Tanev
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         San Jose
                     </div>
@@ -735,7 +735,7 @@ comments: true
                         Ryan Donato
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         St. Louis
                     </div>
@@ -743,7 +743,7 @@ comments: true
                         Vince Dunn
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Tampa Bay
                     </div>
@@ -751,7 +751,7 @@ comments: true
                         Ondrej Palat
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Toronto
                     </div>
@@ -759,7 +759,7 @@ comments: true
                         Jared McCann
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Vancouver
                     </div>
@@ -767,7 +767,7 @@ comments: true
                         Madison Bowey
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Washington
                     </div>
@@ -775,7 +775,7 @@ comments: true
                         Nic Dowd
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Winnipeg
                     </div>
@@ -787,14 +787,14 @@ comments: true
         </div>
     </div>
 
-    <div class="col-sm-12 col-md-6">
-        <div class="row no-gutters">
+    <div class="col-sm-12 col-md-6 col-lg-3">
+        <div class="row">
             <h3>Kyle's Picks</h3>
         </div>
-        <div class="row no-gutters">
+        <div class="row">
             <!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBTHAZ8VJG3FuP4tWjsPI2zwYvb1ahDuBsgGTksQLQEGolF8W2Mi7xZJmLO_4tVoYZjArqMUFC8HWE/pubhtml?widget=true&amp;headers=false" height="770"></iframe> -->
             <div class="div div-bordered div-hover div-condensed" style='font-size:70%'>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Team
                     </div>
@@ -802,7 +802,7 @@ comments: true
                         Player
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Anaheim
                     </div>
@@ -810,7 +810,7 @@ comments: true
                         Haydn Fleury
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Arizona
                     </div>
@@ -818,7 +818,7 @@ comments: true
                         Christian Fischer
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Boston
                     </div>
@@ -826,7 +826,7 @@ comments: true
                         Jakub Zboril
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Buffalo
                     </div>
@@ -834,7 +834,7 @@ comments: true
                         William Borgen
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Calgary
                     </div>
@@ -842,7 +842,7 @@ comments: true
                         Mark Giordano
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Carolina
                     </div>
@@ -850,7 +850,7 @@ comments: true
                         Jake Bean
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Chicago
                     </div>
@@ -858,7 +858,7 @@ comments: true
                         Adam Gaudette
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Colorado
                     </div>
@@ -866,7 +866,7 @@ comments: true
                         J.T. Compher
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Columbus
                     </div>
@@ -874,7 +874,7 @@ comments: true
                         Max Domi
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Dallas
                     </div>
@@ -882,7 +882,7 @@ comments: true
                         Jamie Oleksiak
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Detroit
                     </div>
@@ -890,7 +890,7 @@ comments: true
                         Evgeny Svechnikov
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Edmonton
                     </div>
@@ -898,7 +898,7 @@ comments: true
                         Adam Larsson
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Florida
                     </div>
@@ -906,7 +906,7 @@ comments: true
                         Chris Driedger
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Los Angeles
                     </div>
@@ -914,7 +914,7 @@ comments: true
                         Carl Grundström
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Minnesota
                     </div>
@@ -922,7 +922,7 @@ comments: true
                         Brennan Menell
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Montreal
                     </div>
@@ -930,7 +930,7 @@ comments: true
                         Carey Price
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Nashville
                     </div>
@@ -938,7 +938,7 @@ comments: true
                         Calle Järnkrok
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         New Jersey
                     </div>
@@ -946,7 +946,7 @@ comments: true
                         Andreas Johnsson
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         NYI
                     </div>
@@ -954,7 +954,7 @@ comments: true
                         Josh Bailey
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         NYR
                     </div>
@@ -962,7 +962,7 @@ comments: true
                         Julien Gauthier
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Ottawa
                     </div>
@@ -970,7 +970,7 @@ comments: true
                         Chris Tierny
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Philadelphia
                     </div>
@@ -978,7 +978,7 @@ comments: true
                         Robert Hägg
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Pittsburgh
                     </div>
@@ -986,7 +986,7 @@ comments: true
                         Jason Zucker
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         San Jose
                     </div>
@@ -994,7 +994,7 @@ comments: true
                         Dylan Gambrell
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         St. Louis
                     </div>
@@ -1002,7 +1002,7 @@ comments: true
                         Vladimir Tarasenko
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Tampa Bay
                     </div>
@@ -1010,7 +1010,7 @@ comments: true
                         Cal Foote
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Toronto
                     </div>
@@ -1018,7 +1018,7 @@ comments: true
                         Alexander Kerfoot
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Vancouver
                     </div>
@@ -1026,7 +1026,7 @@ comments: true
                         Braden Holtby
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Washington
                     </div>
@@ -1034,7 +1034,7 @@ comments: true
                         Vitek Vanecek
                     </div>
                 </div>
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col">
                         Winnipeg
                     </div>
