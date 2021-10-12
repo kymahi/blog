@@ -13,7 +13,7 @@ hidden: true
 <div class="row">
   <div class="col-lg-4">
     <div class="row">
-      <i class="fas fa-level-up-alt fa-3x green"></i>
+      <i class="fas fa-level-up-alt fa-3x text-green"></i>
     </div>
     <div class="row">
       <p>Better</p>
@@ -29,7 +29,7 @@ hidden: true
   </div>
   <div class="col-lg-4">
     <div class="row">
-      <i class="fas fa-level-down-alt fa-3x red"></i>
+      <i class="fas fa-level-down-alt fa-3x text-red"></i>
     </div>
     <div class="row">
       <p>Worse</p>
@@ -71,25 +71,25 @@ hidden: true
       <b>Austin</b>
     </div>
     <div class="row">
-      <i class="fas fa-level-down-alt fa-2x red"></i>
+      <i class="fas fa-level-down-alt fa-2x text-red"></i>
     </div>
     <div class="row">
-      <i class="fas fa-level-up-alt fa-2x green"></i>
+      <i class="fas fa-level-up-alt fa-2x text-green"></i>
     </div>
     <div class="row">
-      <i class="fas fa-level-up-alt fa-2x green"></i>
+      <i class="fas fa-level-up-alt fa-2x text-green"></i>
     </div>
     <div class="row">
-      <i class="fas fa-level-down-alt fa-2x red"></i>
+      <i class="fas fa-level-down-alt fa-2x text-red"></i>
     </div>
     <div class="row">
-      <i class="fas fa-level-down-alt fa-2x red"></i>
+      <i class="fas fa-level-down-alt fa-2x text-red"></i>
     </div>
     <div class="row">
       <i class="fas fa-equals fa-2x"></i>
     </div>
     <div class="row">
-      <i class="fas fa-level-up-alt fa-2x green"></i>
+      <i class="fas fa-level-up-alt fa-2x text-green"></i>
     </div>
     <div class="row">
       <i class="fas fa-equals fa-2x"></i>
@@ -100,19 +100,19 @@ hidden: true
       <b>Jon</b>
     </div>
     <div class="row">
-      <i class="fas fa-level-down-alt fa-2x red"></i>
+      <i class="fas fa-level-down-alt fa-2x text-red"></i>
     </div>
     <div class="row">
-      <i class="fas fa-level-up-alt fa-2x green"></i>
+      <i class="fas fa-level-up-alt fa-2x text-green"></i>
     </div>
     <div class="row">
-      <i class="fas fa-level-up-alt fa-2x green"></i>
+      <i class="fas fa-level-up-alt fa-2x text-green"></i>
     </div>
     <div class="row">
-      <i class="fas fa-level-down-alt fa-2x red"></i>
+      <i class="fas fa-level-down-alt fa-2x text-red"></i>
     </div>
     <div class="row">
-      <i class="fas fa-level-down-alt fa-2x red"></i>
+      <i class="fas fa-level-down-alt fa-2x text-red"></i>
     </div>
     <div class="row">
       <i class="fas fa-equals fa-2x"></i>
@@ -122,7 +122,7 @@ hidden: true
       <i class="fas fa-question fa-2x"></i>
     </div>
     <div class="row">
-      <i class="fas fa-level-down-alt fa-2x red"></i>
+      <i class="fas fa-level-down-alt fa-2x text-red"></i>
     </div>
   </div>
   <div class="col-lg-3">
@@ -130,19 +130,19 @@ hidden: true
       <b>Kyle</b>
     </div>
     <div class="row">
-      <i class="fas fa-level-down-alt fa-2x red"></i>
+      <i class="fas fa-level-down-alt fa-2x text-red"></i>
     </div>
     <div class="row">
-      <i class="fas fa-level-up-alt fa-2x green"></i>
+      <i class="fas fa-level-up-alt fa-2x text-green"></i>
     </div>
     <div class="row">
-      <i class="fas fa-level-up-alt fa-2x green"></i>
+      <i class="fas fa-level-up-alt fa-2x text-green"></i>
     </div>
     <div class="row">
-      <i class="fas fa-level-down-alt fa-2x red"></i>
+      <i class="fas fa-level-down-alt fa-2x text-red"></i>
     </div>
     <div class="row">
-      <i class="fas fa-level-down-alt fa-2x red"></i>
+      <i class="fas fa-level-down-alt fa-2x text-red"></i>
     </div>
     <div class="row">
       <i class="fas fa-equals fa-2x"></i>
