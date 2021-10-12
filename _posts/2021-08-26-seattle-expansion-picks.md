@@ -17,255 +17,255 @@ comments: true
       <h3>Seattle's Picks</h3>
     </div>
     <div class="row">
-      <div class="div div-bordered div-hover div-condensed" style='font-size:70%'>
-  <div class="row">
-    <div class="col">
-      Team
-    </div>
-    <div class="col">
-      Player
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Anaheim
-    </div>
-    <div class="col">
-      Haydn Fleury
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Arizona
-    </div>
-    <div class="col">
-      Tyler Pitlick
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Boston
-    </div>
-    <div class="col">
-      Jeremy Lauzon
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Buffalo
-    </div>
-    <div class="col">
-      William Borgen
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Calgary
-    </div>
-    <div class="col">
-      Mark Giordano
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Carolina
-    </div>
-    <div class="col">
-      Morgan Geekie
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Chicago
-    </div>
-    <div class="col">
-      John Quenneville
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Colorado
-    </div>
-    <div class="col">
-      Joonas Donskoi
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Columbus
-    </div>
-    <div class="col">
-      Gavin Bayreuther
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Dallas
-    </div>
-    <div class="col">
-      Jamie Oleksiak
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Detroit
-    </div>
-    <div class="col">
-      Dennis Cholowski
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Edmonton
-    </div>
-    <div class="col">
-      Adam Larsson
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Florida
-    </div>
-    <div class="col">
-      Chris Driedger
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Los Angeles
-    </div>
-    <div class="col">
-      Travis MacDermid
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Minnesota
-    </div>
-    <div class="col">
-      Carson Soucy
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Montreal
-    </div>
-    <div class="col">
-      Cale Fleury
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Nashville
-    </div>
-    <div class="col">
-      Calle Jarnkrok
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      New Jersey
-    </div>
-    <div class="col">
-      Nathan Bastian
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      NYI
-    </div>
-    <div class="col">
-      Jordan Eberle
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      NYR
-    </div>
-    <div class="col">
-      Colin Blackwell
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Ottawa
-    </div>
-    <div class="col">
-      Joey Daccord
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Philadelphia
-    </div>
-    <div class="col">
-      Carsen Twarynski
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Pittsburgh
-    </div>
-    <div class="col">
-      Brandon Tanev
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      San Jose
-    </div>
-    <div class="col">
-      Alexander True
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      St. Louis
-    </div>
-    <div class="col">
-      Vince Dunn
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Tampa Bay
-    </div>
-    <div class="col">
-      Yanni Gourde
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Toronto
-    </div>
-    <div class="col">
-      Jared McCann
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Vancouver
-    </div>
-    <div class="col">
-      Kole Lind
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Washington
-    </div>
-    <div class="col">
-      Vitek Vanecek
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      Winnipeg
-    </div>
-    <div class="col">
-      Mason Appleton
-    </div>
-  </div>
+    <div class="div div-bordered div-hover div-condensed" style='font-size:70%'>
+        <div class="row">
+            <div class="col pe-2">
+                Team
+            </div>
+            <div class="col pe-2">
+                Player
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Anaheim
+            </div>
+            <div class="col pe-2">
+                Haydn Fleury
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Arizona
+            </div>
+            <div class="col pe-2">
+                Tyler Pitlick
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Boston
+            </div>
+            <div class="col pe-2">
+                Jeremy Lauzon
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Buffalo
+            </div>
+            <div class="col pe-2">
+                William Borgen
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Calgary
+            </div>
+            <div class="col pe-2">
+                Mark Giordano
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Carolina
+            </div>
+            <div class="col pe-2">
+                Morgan Geekie
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Chicago
+            </div>
+            <div class="col pe-2">
+                John Quenneville
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Colorado
+            </div>
+            <div class="col pe-2">
+                Joonas Donskoi
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Columbus
+            </div>
+            <div class="col pe-2">
+                Gavin Bayreuther
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Dallas
+            </div>
+            <div class="col pe-2">
+                Jamie Oleksiak
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Detroit
+            </div>
+            <div class="col pe-2">
+                Dennis Cholowski
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Edmonton
+            </div>
+            <div class="col pe-2">
+                Adam Larsson
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Florida
+            </div>
+            <div class="col pe-2">
+                Chris Driedger
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Los Angeles
+            </div>
+            <div class="col pe-2">
+                Travis MacDermid
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Minnesota
+            </div>
+            <div class="col pe-2">
+                Carson Soucy
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Montreal
+            </div>
+            <div class="col pe-2">
+                Cale Fleury
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Nashville
+            </div>
+            <div class="col pe-2">
+                Calle Jarnkrok
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                New Jersey
+            </div>
+            <div class="col pe-2">
+                Nathan Bastian
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                NYI
+            </div>
+            <div class="col pe-2">
+                Jordan Eberle
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                NYR
+            </div>
+            <div class="col pe-2">
+                Colin Blackwell
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Ottawa
+            </div>
+            <div class="col pe-2">
+                Joey Daccord
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Philadelphia
+            </div>
+            <div class="col pe-2">
+                Carsen Twarynski
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Pittsburgh
+            </div>
+            <div class="col pe-2">
+                Brandon Tanev
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                San Jose
+            </div>
+            <div class="col pe-2">
+                Alexander True
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                St. Louis
+            </div>
+            <div class="col pe-2">
+                Vince Dunn
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Tampa Bay
+            </div>
+            <div class="col pe-2">
+                Yanni Gourde
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Toronto
+            </div>
+            <div class="col pe-2">
+                Jared McCann
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Vancouver
+            </div>
+            <div class="col pe-2">
+                Kole Lind
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Washington
+            </div>
+            <div class="col pe-2">
+                Vitek Vanecek
+            </div>
+        </div>
+        <div class="row">
+            <div class="col pe-2">
+                Winnipeg
+            </div>
+            <div class="col pe-2">
+                Mason Appleton
+            </div>
+        </div>
 </div>
     </div>
   </div>
