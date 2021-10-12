@@ -10,8 +10,17 @@ featured: true
 hidden: true
 ---
 
+<style>
+  .red {
+    color: red !important;
+  }
+  .green {
+    color: green !important;
+  }
+</style>
+
 <div class="row">
-  <div class="col-lg-4">
+  <div class="col-xs-4">
     <div class="row">
       <i class="fas fa-level-up-alt fa-3x text-green"></i>
     </div>
@@ -19,7 +28,7 @@ hidden: true
       <p>Better</p>
     </div>
   </div>
-  <div class="col-lg-4">
+  <div class="col-xs-4">
     <div class="row">
       <i class="fas fa-equals fa-3x"></i>
     </div>
@@ -27,7 +36,7 @@ hidden: true
       <p>Same</p>
     </div>
   </div>
-  <div class="col-lg-4">
+  <div class="col-xs-4">
     <div class="row">
       <i class="fas fa-level-down-alt fa-3x text-red"></i>
     </div>
@@ -36,122 +45,135 @@ hidden: true
     </div>
   </div>
 </div>
+
 <div class="row">
   <div class="col-lg-3">
     <div class="row">
-      <b>Team</b>
+      <div class="col">
+        <b>Team</b>
+      </div>
+      <div class="col">
+        <b>Austin</b>
+      </div>
+      <div class="col">
+        <b>Jon</b>
+      </div>
+      <div class="col">
+        <b>Kyle</b>
+      </div>
     </div>
     <div class="row">
-      <b>Colorado Avalanche</b>
+      <div class="col">
+        <b>Colorado Avalanche</b>
+      </div>
+      <div class="col">
+        <i class="fas fa-level-down-alt fa-2x red"></i>
+      </div>
+      <div class="col">
+        <i class="fas fa-level-down-alt fa-2x red"></i>
+      </div>
+      <div class="col">
+        <i class="fas fa-level-down-alt fa-2x red"></i>
+      </div>
     </div>
     <div class="row">
-      <b>Chicago Blackhawks</b>
+      <div class="col">
+        <b>Chicago Blackhawks</b>
+      </div>
+      <div class="col">
+        <i class="fas fa-level-up-alt fa-2x green"></i>
+      </div>
+      <div class="col">
+        <i class="fas fa-level-up-alt fa-2x green"></i>
+      </div>
+      <div class="col">
+        <i class="fas fa-level-up-alt fa-2x green"></i>
+      </div>
     </div>
     <div class="row">
-      <b>Winnipeg Jets</b>
+      <div class="col">
+        <b>Winnipeg Jets</b>
+      </div>
+      <div class="col">
+        <i class="fas fa-level-up-alt fa-2x green"></i>
+      </div>
+      <div class="col">
+        <i class="fas fa-level-up-alt fa-2x green"></i>
+      </div>
+      <div class="col">
+        <i class="fas fa-level-up-alt fa-2x green"></i>
+      </div>
     </div>
     <div class="row">
-      <b>Arizona Coyotes</b>
+      <div class="col">
+        <b>Arizona Coyotes</b>
+      </div>
+      <div class="col">
+        <i class="fas fa-level-down-alt fa-2x red"></i>
+      </div>
+      <div class="col">
+        <i class="fas fa-level-down-alt fa-2x red"></i>
+      </div>
+      <div class="col">
+        <i class="fas fa-level-down-alt fa-2x red"></i>
+      </div>
     </div>
     <div class="row">
-      <b>Nashville Predators</b>
+      <div class="col">
+        <b>Nashville Predators</b>
+      </div>
+      <div class="col">
+        <i class="fas fa-level-down-alt fa-2x red"></i>
+      </div>
+      <div class="col">
+        <i class="fas fa-level-down-alt fa-2x red"></i>
+      </div>
+      <div class="col">
+        <i class="fas fa-level-down-alt fa-2x red"></i>
+      </div>
     </div>
     <div class="row">
-      <b>Minnesota Wild</b>
+      <div class="col">
+        <b>Minnesota Wild</b>
+      </div>
+      <div class="col">
+        <i class="fas fa-equals fa-2x"></i>
+      </div>
+      <div class="col">
+        <i class="fas fa-equals fa-2x"></i>
+      </div>
+      <div class="col">
+        <i class="fas fa-equals fa-2x"></i>
+      </div>
     </div>
     <div class="row">
-      <b>Dallas Stars</b>
+      <div class="col">
+        <b>Dallas Stars</b>
+      </div>
+      <div class="col">
+        <i class="fas fa-level-up-alt fa-2x green"></i>
+      </div>
+      <div class="col">
+        <i class="fas fa-equals fa-2x"></i>
+        <i class="fas fa-question fa-2x"></i>
+      </div>
+      <div class="col">
+        <i class="fas fa-equals fa-2x"></i>
+      </div>
     </div>
     <div class="row">
-      <b>St. Louis Blues</b>
-    </div>
-  </div>
-  <div class="col-lg-3">
-    <div class="row">
-      <b>Austin</b>
-    </div>
-    <div class="row">
-      <i class="fas fa-level-down-alt fa-2x text-red"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-level-up-alt fa-2x text-green"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-level-up-alt fa-2x text-green"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-level-down-alt fa-2x text-red"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-level-down-alt fa-2x text-red"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-equals fa-2x"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-level-up-alt fa-2x text-green"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-equals fa-2x"></i>
-    </div>
-  </div>
-  <div class="col-lg-3">
-    <div class="row">
-      <b>Jon</b>
-    </div>
-    <div class="row">
-      <i class="fas fa-level-down-alt fa-2x text-red"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-level-up-alt fa-2x text-green"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-level-up-alt fa-2x text-green"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-level-down-alt fa-2x text-red"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-level-down-alt fa-2x text-red"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-equals fa-2x"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-equals fa-2x"></i>
-      <i class="fas fa-question fa-2x"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-level-down-alt fa-2x text-red"></i>
-    </div>
-  </div>
-  <div class="col-lg-3">
-    <div class="row">
-      <b>Kyle</b>
-    </div>
-    <div class="row">
-      <i class="fas fa-level-down-alt fa-2x text-red"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-level-up-alt fa-2x text-green"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-level-up-alt fa-2x text-green"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-level-down-alt fa-2x text-red"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-level-down-alt fa-2x text-red"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-equals fa-2x"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-equals fa-2x"></i>
-    </div>
-    <div class="row">
-      <i class="fas fa-equals fa-2x"></i>
+      <div class="col">
+        <b>St. Louis Blues</b>
+      </div>
+      <div class="col">
+        <i class="fas fa-equals fa-2x"></i>
+      </div>
+      <div class="col">
+        <i class="fas fa-level-down-alt fa-2x red"></i>
+      </div>
+      <div class="col">
+        <i class="fas fa-equals fa-2x"></i>
+      </div>
     </div>
   </div>
 </div>
