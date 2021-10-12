@@ -274,7 +274,10 @@ comments: true
     <div class="row">
       <h3>Austin's Picks</h3>
     </div>
-    <div class="row">
+    
+<div class="row">
+    <div class="div div-bordered div-hover div-condensed" style='font-size:70%'>
+        <div class="row">
             <div class="col px-0">
                 Team
             </div>
