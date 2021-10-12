@@ -4,7 +4,7 @@ title: "Best Puckin' Hockey Podcast Blog"
 description: "The official blog of TBPHP where we log our crazy theories, predictions, and ramblings."
 logo: 'assets/images/android-chrome-192x192.png'
 baseurl: /
-# google_analytics: ''
+google_analytics: 'G-Y7YYCXPNYG'
 disqus: 'tbphp'
 # mailchimp-list: ''
 include: ["_pages"]
