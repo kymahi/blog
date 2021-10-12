@@ -14,255 +14,255 @@ comments: true
 <div class="row">
   <div class="col-sm-12 col-md-6 col-lg-3">
     <div class="row">
-    <h3>Seattle's Picks</h3>
-</div>
-<div class="row">
+      <h3>Seattle's Picks</h3>
+    </div>
+    <div class="row">
     <div class="div div-bordered div-hover div-condensed" style='font-size:70%'>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Team
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Player
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Anaheim
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Haydn Fleury
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Arizona
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Tyler Pitlick
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Boston
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Jeremy Lauzon
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Buffalo
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 William Borgen
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Calgary
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Mark Giordano
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Carolina
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Morgan Geekie
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Chicago
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 John Quenneville
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Colorado
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Joonas Donskoi
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Columbus
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Gavin Bayreuther
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Dallas
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Jamie Oleksiak
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Detroit
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Dennis Cholowski
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Edmonton
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Adam Larsson
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Florida
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Chris Driedger
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Los Angeles
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Travis MacDermid
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Minnesota
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Carson Soucy
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Montreal
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Cale Fleury
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Nashville
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Calle Jarnkrok
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 New Jersey
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Nathan Bastian
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 NYI
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Jordan Eberle
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 NYR
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Colin Blackwell
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Ottawa
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Joey Daccord
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Philadelphia
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Carsen Twarynski
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Pittsburgh
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Brandon Tanev
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 San Jose
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Alexander True
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 St. Louis
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Vince Dunn
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Tampa Bay
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Yanni Gourde
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Toronto
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Jared McCann
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Vancouver
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Kole Lind
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Washington
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Vitek Vanecek
             </div>
         </div>
         <div class="row">
-            <div class="col pe-0">
+            <div class="col me-2">
                 Winnipeg
             </div>
-            <div class="col pe-0">
+            <div class="col me-2">
                 Mason Appleton
             </div>
         </div>
