@@ -30,7 +30,7 @@ comments: true
     </div>
     <div class="row">
       <!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBTHAZ8VJG3FuP4tWjsPI2zwYvb1ahDuBsgGTksQLQEGolF8W2Mi7xZJmLO_4tVoYZjArqMUFC8HWE/pubhtml?widget=true&amp;headers=false" height="770"></iframe> -->
-      <table class="table table-bordered table-hover table-condensed">
+      <table class="table table-bordered table-hover table-condensed" style="font-size='80%'">
         <thead>
           <tr>
             <th title="Field #1">Team</th>
