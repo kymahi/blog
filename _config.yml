@@ -2,7 +2,7 @@
 name: "Best Puckin' Hockey Podcast Blog"
 title: "Best Puckin' Hockey Podcast Blog"
 description: "The official blog of TBPHP where we log our crazy theories, predictions, and ramblings."
-logo: 'assets/images/tbphp_logo_notext.png'
+logo: 'assets/images/android-chrome-192x192.png'
 baseurl: /
 # google_analytics: ''
 disqus: 'tbphp'
