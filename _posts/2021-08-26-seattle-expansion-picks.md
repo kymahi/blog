@@ -10,10 +10,25 @@ featured: false
 hidden: false
 ---
 
-# Test Post!
+<div class="row">
+  <div class="col-sm-12 col-md-6 col-lg-3">
+    ## Seattle's Picks
+  </div>
+  
+  <div class="col-sm-12 col-md-6 col-lg-3">
+    ## Austin's Picks
+  </div>
 
-## Austin's Picks
+  <div class="col-sm-12 col-md-6 col-lg-3">
+    ## Jon's Picks
+  </div>
 
-## Jon's Picks
-
-## Kyle's Picks
+  <div class="col-sm-12 col-md-6 col-lg-3">
+    <div class="row">
+      ## Kyle's Picks
+    </div>
+    <div class="row">
+      <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBTHAZ8VJG3FuP4tWjsPI2zwYvb1ahDuBsgGTksQLQEGolF8W2Mi7xZJmLO_4tVoYZjArqMUFC8HWE/pubhtml?gid=875217170&amp;single=true&amp;widget=true&amp;headers=false" />
+    </div>
+  </div>
+</div>
