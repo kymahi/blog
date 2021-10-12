@@ -11,23 +11,23 @@ hidden: false
 comments: true
 ---
 
-<div class="row d-flex justify-content-center">
-    <div class="col-sm-12 col-md-6">
+<div class="row">
+    <div class="col-sm-12 col-md-6 d-flex justify-content-center">
         <div class="row">
             <h3>Seattle's Picks</h3>
         </div>
         <div class="row">
             <div class="div div-bordered div-hover div-condensed" style='font-size:70%'>
                 <div class="row">
-                    <div class="col text-bold">
+                    <div class="col">
                         Team
                     </div>
-                    <div class="col text-bold">
+                    <div class="col">
                         Player
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col text-italic">
+                    <div class="col">
                         Anaheim
                     </div>
                     <div class="col">
@@ -270,7 +270,7 @@ comments: true
         </div>
     </div>
 
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-6 d-flex justify-content-center">
         <div class="row">
             <h3>Austin's Picks</h3>
         </div>
@@ -529,7 +529,7 @@ comments: true
         </div>
     </div>
 
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-6 d-flex justify-content-center">
         <div class="row">
             <h3>Jon's Picks</h3>
         </div>
@@ -787,7 +787,7 @@ comments: true
         </div>
     </div>
 
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-6 d-flex justify-content-center">
         <div class="row">
             <h3>Kyle's Picks</h3>
         </div>
