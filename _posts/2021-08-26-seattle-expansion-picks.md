@@ -11,7 +11,7 @@ hidden: false
 comments: true
 ---
 
-<div class="row">
+<div class="row text-center">
     <div class="col-sm-12 col-md-6">
         <div class="row no-gutters">
             <h3>Seattle's Picks</h3>
