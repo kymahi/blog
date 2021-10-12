@@ -19,15 +19,15 @@ comments: true
         <div class="row">
             <div class="div div-bordered div-hover div-condensed" style='font-size:70%'>
                 <div class="row">
-                    <div class="col">
+                    <div class="col text-bold">
                         Team
                     </div>
-                    <div class="col">
+                    <div class="col text-bold">
                         Player
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col">
+                    <div class="col text-italic">
                         Anaheim
                     </div>
                     <div class="col">
