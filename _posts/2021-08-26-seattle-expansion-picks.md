@@ -29,7 +29,132 @@ comments: true
       <h2>Kyle's Picks</h2>
     </div>
     <div class="row">
-      <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBTHAZ8VJG3FuP4tWjsPI2zwYvb1ahDuBsgGTksQLQEGolF8W2Mi7xZJmLO_4tVoYZjArqMUFC8HWE/pubhtml?widget=true&amp;headers=false" height="770"></iframe>
+      <!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBTHAZ8VJG3FuP4tWjsPI2zwYvb1ahDuBsgGTksQLQEGolF8W2Mi7xZJmLO_4tVoYZjArqMUFC8HWE/pubhtml?widget=true&amp;headers=false" height="770"></iframe> -->
+      <table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Team</th>
+<th title="Field #2">Drafted Player</th>
+</tr></thead>
+<tbody><tr>
+<td>Anaheim</td>
+<td>Haydn Fleury</td>
+</tr>
+<tr>
+<td>Arizona</td>
+<td>Christian Fischer</td>
+</tr>
+<tr>
+<td>Boston</td>
+<td>Jakub Zboril</td>
+</tr>
+<tr>
+<td>Buffalo</td>
+<td>William Borgen</td>
+</tr>
+<tr>
+<td>Calgary</td>
+<td>Mark Giordano</td>
+</tr>
+<tr>
+<td>Carolina</td>
+<td>Jake Bean</td>
+</tr>
+<tr>
+<td>Chicago</td>
+<td>Adam Gaudette</td>
+</tr>
+<tr>
+<td>Colorado</td>
+<td>J.T. Compher</td>
+</tr>
+<tr>
+<td>Columbus</td>
+<td>Max Domi</td>
+</tr>
+<tr>
+<td>Dallas</td>
+<td>Jamie Oleksiak</td>
+</tr>
+<tr>
+<td>Detroit</td>
+<td>Evgeny Svechnikov</td>
+</tr>
+<tr>
+<td>Edmonton</td>
+<td>Adam Larsson</td>
+</tr>
+<tr>
+<td>Florida</td>
+<td>Chris Driedger</td>
+</tr>
+<tr>
+<td>Los Angeles</td>
+<td>Carl Grundström</td>
+</tr>
+<tr>
+<td>Minnesota</td>
+<td>Brennan Menell</td>
+</tr>
+<tr>
+<td>Montreal</td>
+<td>Carey Price</td>
+</tr>
+<tr>
+<td>Nashville</td>
+<td>Calle Järnkrok</td>
+</tr>
+<tr>
+<td>New Jersey</td>
+<td>Andreas Johnsson</td>
+</tr>
+<tr>
+<td>NYI</td>
+<td>Josh Bailey</td>
+</tr>
+<tr>
+<td>NYR</td>
+<td>Julien Gauthier</td>
+</tr>
+<tr>
+<td>Ottawa</td>
+<td>Chris Tierny</td>
+</tr>
+<tr>
+<td>Philadelphia</td>
+<td>Robert Hägg</td>
+</tr>
+<tr>
+<td>Pittsburgh</td>
+<td>Jason Zucker</td>
+</tr>
+<tr>
+<td>San Jose</td>
+<td>Dylan Gambrell</td>
+</tr>
+<tr>
+<td>St. Louis</td>
+<td>Vladimir Tarasenko</td>
+</tr>
+<tr>
+<td>Tampa Bay</td>
+<td>Cal Foote</td>
+</tr>
+<tr>
+<td>Toronto</td>
+<td>Alexander Kerfoot</td>
+</tr>
+<tr>
+<td>Vancouver</td>
+<td>Braden Holtby</td>
+</tr>
+<tr>
+<td>Washington</td>
+<td>Vitek Vanecek</td>
+</tr>
+<tr>
+<td>Winnipeg</td>
+<td>Nathan Beaulieu</td>
+</tr>
+</tbody></table>
     </div>
   </div>
 </div>
