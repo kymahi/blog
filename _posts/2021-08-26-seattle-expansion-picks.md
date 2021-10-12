@@ -13,68 +13,71 @@ comments: true
 
 <div class="row">
   <div class="col-sm-12 col-md-6 col-lg-3">
-    <h3>Seattle's Picks</h2>
+    <h3>Seattle's Picks</h3>
   </div>
   
   <div class="col-sm-12 col-md-6 col-lg-3">
-    <h3>Austin's Picks</h2>
+    <h3>Austin's Picks</h3>
   </div>
 
   <div class="col-sm-12 col-md-6 col-lg-3">
-    <h3>Jon's Picks</h2>
+    <h3>Jon's Picks</h3>
   </div>
 
   <div class="col-sm-12 col-md-6 col-lg-3">
     <div class="row">
-      <h3>Kyle's Picks</h2>
+      <h3>Kyle's Picks</h3>
     </div>
     <div class="row">
       <!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBTHAZ8VJG3FuP4tWjsPI2zwYvb1ahDuBsgGTksQLQEGolF8W2Mi7xZJmLO_4tVoYZjArqMUFC8HWE/pubhtml?widget=true&amp;headers=false" height="770"></iframe> -->
       <table class="table table-bordered table-hover table-condensed">
-<thead><tr><th title="Field #1">Team</th>
-<th title="Field #2">Drafted Player</th>
-</tr></thead>
-<tbody><tr>
-<td>Anaheim</td>
-<td>Haydn Fleury</td>
-</tr>
-<tr>
-<td>Arizona</td>
-<td>Christian Fischer</td>
-</tr>
-<tr>
-<td>Boston</td>
-<td>Jakub Zboril</td>
-</tr>
-<tr>
-<td>Buffalo</td>
-<td>William Borgen</td>
-</tr>
-<tr>
-<td>Calgary</td>
-<td>Mark Giordano</td>
-</tr>
-<tr>
-<td>Carolina</td>
-<td>Jake Bean</td>
-</tr>
-<tr>
-<td>Chicago</td>
-<td>Adam Gaudette</td>
-</tr>
-<tr>
-<td>Colorado</td>
-<td>J.T. Compher</td>
-</tr>
-<tr>
-<td>Columbus</td>
-<td>Max Domi</td>
-</tr>
-<tr>
-<td>Dallas</td>
-<td>Jamie Oleksiak</td>
-</tr>
-<tr>
+        <thead>
+          <tr>
+            <th title="Field #1">Team</th>
+            <th title="Field #2">Drafted Player</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Anaheim</td>
+            <td>Haydn Fleury</td>
+          </tr>
+          <tr>
+            <td>Arizona</td>
+            <td>Christian Fischer</td>
+          </tr>
+          <tr>
+            <td>Boston</td>
+            <td>Jakub Zboril</td>
+          </tr>
+          <tr>
+            <td>Buffalo</td>
+            <td>William Borgen</td>
+          </tr>
+          <tr>
+            <td>Calgary</td>
+            <td>Mark Giordano</td>
+          </tr>
+          <tr>
+            <td>Carolina</td>
+            <td>Jake Bean</td>
+          </tr>
+          <tr>
+            <td>Chicago</td>
+            <td>Adam Gaudette</td>
+          </tr>
+          <tr>
+            <td>Colorado</td><td>J.T. Compher</td>
+          </tr>
+          <tr>
+            <td>Columbus</td>
+            <td>Max Domi</td>
+          </tr>
+          <tr>
+            <td>Dallas</td>
+            <td>Jamie Oleksiak</td>
+          </tr>
+          <tr>
 <td>Detroit</td>
 <td>Evgeny Svechnikov</td>
 </tr>
@@ -143,18 +146,19 @@ comments: true
 <td>Alexander Kerfoot</td>
 </tr>
 <tr>
-<td>Vancouver</td>
-<td>Braden Holtby</td>
-</tr>
-<tr>
-<td>Washington</td>
-<td>Vitek Vanecek</td>
-</tr>
-<tr>
-<td>Winnipeg</td>
-<td>Nathan Beaulieu</td>
-</tr>
-</tbody></table>
+            <td>Vancouver</td>
+            <td>Braden Holtby</td>
+          </tr>
+          <tr>
+            <td>Washington</td>
+            <td>Vitek Vanecek</td>
+          </tr>
+          <tr>
+            <td>Winnipeg</td>
+            <td>Nathan Beaulieu</td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   </div>
 </div>
