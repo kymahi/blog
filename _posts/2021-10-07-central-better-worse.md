@@ -20,7 +20,7 @@ hidden: true
 </style>
 
 <div class="row">
-  <div class="col-xs-4">
+  <div class="col-xl-4">
     <div class="row">
       <i class="fas fa-level-up-alt fa-3x text-green"></i>
     </div>
@@ -28,7 +28,7 @@ hidden: true
       <p>Better</p>
     </div>
   </div>
-  <div class="col-xs-4">
+  <div class="col-xl-4">
     <div class="row">
       <i class="fas fa-equals fa-3x"></i>
     </div>
@@ -36,7 +36,7 @@ hidden: true
       <p>Same</p>
     </div>
   </div>
-  <div class="col-xs-4">
+  <div class="col-xl-4">
     <div class="row">
       <i class="fas fa-level-down-alt fa-3x text-red"></i>
     </div>
@@ -47,7 +47,7 @@ hidden: true
 </div>
 
 <div class="row">
-  <div class="col-lg-3">
+  <div class="col">
     <div class="row">
       <div class="col">
         <b>Team</b>
