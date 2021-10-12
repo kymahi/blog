@@ -133,7 +133,6 @@ post_class: post-template
             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
             {% if page.previous.url %}
                 {% unless page.previous.url contains 'fa-attribution' %}
-                <p>{{page.previous.url}}</p>
                 <a class="prev d-block col-md-6" href="{{ site.baseurl }}{{page.previous.url}}"> &laquo; {{page.previous.title}}</a>
                 {% endunless %}
             {% endif %}
