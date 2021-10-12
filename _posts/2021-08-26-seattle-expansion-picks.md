@@ -25,160 +25,129 @@ comments: true
       <h3>Jon's Picks</h3>
     </div>
     <div class="row">
-      <table class="table table-bordered table-hover table-condensed" style="font-size='80%'">
+      <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Team</th>
 <th title="Field #2">Drafted Player</th>
-<th title="Field #3">FIELD3</th>
 </tr></thead>
 <tbody><tr>
 <td>Anaheim</td>
 <td>Adam Henrique</td>
-<td> </td>
 </tr>
 <tr>
 <td>Arizona</td>
 <td>Ilya Lyubushkin</td>
-<td> </td>
 </tr>
 <tr>
 <td>Boston</td>
 <td>Jeremy Lauzon</td>
-<td> </td>
 </tr>
 <tr>
 <td>Buffalo</td>
 <td>Dustin Tokarski</td>
-<td> </td>
 </tr>
 <tr>
 <td>Calgary</td>
 <td>Brett Ritchie</td>
-<td> </td>
 </tr>
 <tr>
 <td>Carolina</td>
 <td>Nino Niederreiter</td>
-<td> </td>
 </tr>
 <tr>
 <td>Chicago</td>
 <td>Nikita Zadorov</td>
-<td> </td>
 </tr>
 <tr>
 <td>Colorado</td>
 <td>Joonas Donskoi</td>
-<td> </td>
 </tr>
 <tr>
 <td>Columbus</td>
 <td>Kevin Stenlund</td>
-<td> </td>
 </tr>
 <tr>
 <td>Dallas</td>
 <td>Ben Bishop</td>
-<td> </td>
 </tr>
 <tr>
 <td>Detroit</td>
 <td>Kaden Fulcher</td>
-<td> </td>
 </tr>
 <tr>
 <td>Edmonton</td>
 <td>Oscar Klefbom</td>
-<td> </td>
 </tr>
 <tr>
 <td>Florida</td>
 <td>Radko Gudas</td>
-<td> </td>
 </tr>
 <tr>
 <td>Los Angeles</td>
 <td>Carl Grundstrom</td>
-<td> </td>
 </tr>
 <tr>
 <td>Minnesota</td>
 <td>Kaapo Kahkonen</td>
-<td> </td>
 </tr>
 <tr>
 <td>Montreal</td>
 <td>Cale Fleury</td>
-<td> </td>
 </tr>
 <tr>
 <td>Nashville</td>
 <td>Matthew Benning</td>
-<td> </td>
 </tr>
 <tr>
 <td>New Jersey</td>
 <td>Nathan Bastian</td>
-<td> </td>
 </tr>
 <tr>
 <td>NYI</td>
 <td>Jordan Eberle</td>
-<td> </td>
 </tr>
 <tr>
 <td>NYR</td>
 <td>Julien Gauthier</td>
-<td> </td>
 </tr>
 <tr>
 <td>Ottawa</td>
 <td>Joshua Brown</td>
-<td> </td>
 </tr>
 <tr>
 <td>Philadelphia</td>
 <td>James van Riemsdyk</td>
-<td> </td>
 </tr>
 <tr>
 <td>Pittsburgh</td>
 <td>Brandon Tanev</td>
-<td> </td>
 </tr>
 <tr>
 <td>San Jose</td>
 <td>Ryan Donato</td>
-<td> </td>
 </tr>
 <tr>
 <td>St. Louis</td>
 <td>Vince Dunn</td>
-<td> </td>
 </tr>
 <tr>
 <td>Tampa Bay</td>
 <td>Ondrej Palat</td>
-<td> </td>
 </tr>
 <tr>
 <td>Toronto</td>
 <td>Jared McCann</td>
-<td> </td>
 </tr>
 <tr>
 <td>Vancouver</td>
 <td>Madison Bowey</td>
-<td> </td>
 </tr>
 <tr>
 <td>Washington</td>
 <td>Nic Dowd</td>
-<td> </td>
 </tr>
 <tr>
 <td>Winnipeg</td>
 <td>Mason Appleton</td>
-<td> </td>
 </tr>
 </tbody></table>
     </div>
