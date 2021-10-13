@@ -38,7 +38,7 @@ hidden: true
   <div class="col">
     <div class="row text-center">
       <div class="col">
-        <b>Team</b>
+        <div></div>
       </div>
       <div class="col">
         <b>Austin</b>
