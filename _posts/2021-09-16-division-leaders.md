@@ -11,6 +11,7 @@ hidden: false
 ---
 
 <div class="row">
+  <div class="col-xl-12">
   <div class="row">
     <div class="col">
       <div></div>
@@ -78,5 +79,6 @@ hidden: false
     <div class="col">
       Maple Leafs
     </div>
+  </div>
   </div>
 </div>
