@@ -12,75 +12,75 @@ hidden: false
 
 <div class="row">
   <div class="col">
-  <div class="row">
-    <div class="col">
-      <div></div>
+    <div class="row">
+      <div class="col">
+        <div></div>
+      </div>
+      <div class="col">
+        <b>Austin</b>
+      </div>
+      <div class="col">
+        <b>Jon</b>
+      </div>
+      <div class="col">
+        <b>Kyle</b>
+      </div>
     </div>
-    <div class="col">
-      <b>Austin</b>
+    <div class="row border-top">
+      <div class="col">
+        <b>Pacific</b>
+      </div>
+      <div class="col">
+        VGK
+      </div>
+      <div class="col">
+        VGK
+      </div>
+      <div class="col">
+        SEA
+      </div>
     </div>
-    <div class="col">
-      <b>Jon</b>
+    <div class="row border-top">
+      <div class="col">
+        <b>Central</b>
+      </div>
+      <div class="col">
+        WPG
+      </div>
+      <div class="col">
+        WPG
+      </div>
+      <div class="col">
+        COL
+      </div>
     </div>
-    <div class="col">
-      <b>Kyle</b>
+    <div class="row border-top">
+      <div class="col">
+        <b>Metro</b>
+      </div>
+      <div class="col">
+        NYI
+      </div>
+      <div class="col">
+        WSH
+      </div>
+      <div class="col">
+        CAR
+      </div>
     </div>
-  </div>
-  <div class="row border-top">
-    <div class="col">
-      <b>Pacific</b>
+    <div class="row border-top">
+      <div class="col">
+        <b>Atlantic</b>
+      </div>
+      <div class="col">
+        TBL
+      </div>
+      <div class="col">
+        BOS
+      </div>
+      <div class="col">
+        TOR
+      </div>
     </div>
-    <div class="col">
-      VGK
-    </div>
-    <div class="col">
-      VGK
-    </div>
-    <div class="col">
-      SEA
-    </div>
-  </div>
-  <div class="row border-top">
-    <div class="col">
-      <b>Central</b>
-    </div>
-    <div class="col">
-      WPG
-    </div>
-    <div class="col">
-      WPG
-    </div>
-    <div class="col">
-      COL
-    </div>
-  </div>
-  <div class="row border-top">
-    <div class="col">
-      <b>Metro</b>
-    </div>
-    <div class="col">
-      NYI
-    </div>
-    <div class="col">
-      WSH
-    </div>
-    <div class="col">
-      CAR
-    </div>
-  </div>
-  <div class="row border-top">
-    <div class="col">
-      <b>Atlantic</b>
-    </div>
-    <div class="col">
-      TBL
-    </div>
-    <div class="col">
-      BOS
-    </div>
-    <div class="col">
-      TOR
-    </div>
-  </div>
   </div>
 </div>
