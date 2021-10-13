@@ -12,11 +12,15 @@ hidden: false
 
 |----------------+--------------+--------------+-------------+|
 |                |    Austin    |      Jon     |     Kyle     |
-|:---------------|------::------|------::------|------::------|
-|   **Pacific**  |Golden Knights|Golden Knights|    Kraken    |
-|   **Central**  |     Jets     |     Jets     |   Avalanche  |
-|**Metropolitan**|   Islanders  |   Capitals   |  Hurricanes  |
-|  **Atlantic**  |   Lightning  |    Bruins    |  Maple Leafs |
+|:---------------|:------------:|:------------:|:------------:|
+|   
+**Pacific**  |&nbsp;&nbsp;Golden Knights&nbsp;&nbsp;|&nbsp;&nbsp;Golden Knights&nbsp;&nbsp;|    Kraken    |
+|   
+**Central**  |     Jets     |     Jets     |   Avalanche  |
+|
+**Metropolitan**&nbsp;&nbsp;|   Islanders  |   Capitals   |  Hurricanes  |
+|  
+**Atlantic**  |   Lightning  |    Bruins    |&nbsp;&nbsp;Maple Leafs&nbsp;&nbsp;|
 |================|==============|==============|==============|
 <hr>
 <div class="row">
