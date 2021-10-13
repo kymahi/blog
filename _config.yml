@@ -60,7 +60,7 @@ paginate: 6
 paginate_path: /page:num/
     
 # Other
-markdown: kramdown
+# markdown: kramdown
 
 kramdown:
   input: GFM
