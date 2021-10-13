@@ -26,7 +26,7 @@ hidden: false
       <b>Jon</b>
     </div>
   </div>
-  <div class="row">
+  <div class="row border-top">
     <div class="col">
       <b>Pacific</b>
     </div>
@@ -40,7 +40,7 @@ hidden: false
       Kraken
     </div>
   </div>
-  <div class="row">
+  <div class="row border-top">
     <div class="col">
       <b>Central</b>
     </div>
@@ -54,9 +54,9 @@ hidden: false
       Avalanche
     </div>
   </div>
-  <div class="row">
+  <div class="row border-top">
     <div class="col">
-      <b>Metropolitan</b>
+      <b>Metro</b>
     </div>
     <div class="col">
       Islanders
@@ -68,7 +68,7 @@ hidden: false
       Hurricanes
     </div>
   </div>
-  <div class="row">
+  <div class="row border-top">
     <div class="col">
       <b>Atlantic</b>
     </div>
