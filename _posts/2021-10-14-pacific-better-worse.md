@@ -55,13 +55,13 @@ hidden: true
         <b>ANH</b>
       </div>
       <div class="col text-center">
-			<i class="fas fa-equals fa-3x"></i>
+			<i class="fas fa-equals fa-2x"></i>
       </div>
       <div class="col text-center">
-			<i class="fas fa-equals fa-3x"></i>
+			<i class="fas fa-equals fa-2x"></i>
       </div>
       <div class="col text-center">
-			<i class="fas fa-equals fa-3x"></i>
+			<i class="fas fa-equals fa-2x"></i>
       </div>
     </div>
     <div class="row border-top">
@@ -100,7 +100,7 @@ hidden: true
         <i class="fas fa-level-up-alt fa-2x green"></i>
       </div>
       <div class="col text-center">
-			<i class="fas fa-equals fa-3x"></i>
+			<i class="fas fa-equals fa-2x"></i>
       </div>
       <div class="col text-center">
         <i class="fas fa-level-down-alt fa-2x red"></i>
@@ -139,13 +139,13 @@ hidden: true
         <b>CGY</b>
       </div>
       <div class="col text-center">
-			<i class="fas fa-equals fa-3x"></i>
+			<i class="fas fa-equals fa-2x"></i>
       </div>
       <div class="col text-center">
-			<i class="fas fa-equals fa-3x"></i>
+			<i class="fas fa-equals fa-2x"></i>
       </div>
       <div class="col text-center">
-			<i class="fas fa-equals fa-3x"></i>
+			<i class="fas fa-equals fa-2x"></i>
       </div>
     </div>
     <div class="row border-top">
