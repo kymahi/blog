@@ -10,20 +10,6 @@ featured: false
 hidden: false
 ---
 
-|----------------+--------------+--------------+-------------+|
-|                |    Austin    |      Jon     |     Kyle     |
-
-|:---------------|:------------:|:------------:|:------------:|
-|   
-**Pacific**  |&nbsp;&nbsp;Golden Knights&nbsp;&nbsp;|&nbsp;&nbsp;Golden Knights&nbsp;&nbsp;|    Kraken    |
-|   
-**Central**  |     Jets     |     Jets     |   Avalanche  |
-|
-**Metropolitan**&nbsp;&nbsp;|   Islanders  |   Capitals   |  Hurricanes  |
-|  
-**Atlantic**  |   Lightning  |    Bruins    |&nbsp;&nbsp;Maple Leafs&nbsp;&nbsp;|
-|================|==============|==============|==============|
-<hr>
 <div class="row">
   <div class="col-xl-12">
   <div class="row">
@@ -31,64 +17,66 @@ hidden: false
       <div></div>
     </div>
     <div class="col">
-      <b>Pacific</b>
+      <b>Austin</b>
     </div>
     <div class="col">
-      <b>Central</b>
+      <b>Kyle</b>
     </div>
     <div class="col">
-      <b>Metropolitan</b>
-    </div>
-    <div class="col">
-      <b>Atlantic</b>
+      <b>Jon</b>
     </div>
   </div>
   <div class="row">
     <div class="col">
-      <b>Austin</b>
+      <b>Pacific</b>
     </div>
     <div class="col">
       Golden Knights
     </div>
     <div class="col">
+      Golden Knights
+    </div>
+    <div class="col">
+      Kraken
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <b>Central</b>
+    </div>
+    <div class="col">
       Jets
+    </div>
+    <div class="col">
+      Jets
+    </div>
+    <div class="col">
+      Avalanche
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <b>Metropolitan</b>
     </div>
     <div class="col">
       Islanders
     </div>
     <div class="col">
-      Lightning
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      <b>Jon</b>
-    </div>
-    <div class="col">
-      Golden Knights
-    </div>
-    <div class="col">
-      Jets
-    </div>
-    <div class="col">
       Capitals
     </div>
     <div class="col">
-      Bruins
+      Hurricanes
     </div>
   </div>
   <div class="row">
     <div class="col">
-      <b>Kyle</b>
+      <b>Atlantic</b>
     </div>
     <div class="col">
-      Kraken
+      Lightning
     </div>
     <div class="col">
-      Avalanche
-    </div>
-    <div class="col">
-      Hurricanes
+      Bruins
     </div>
     <div class="col">
       Maple Leafs
