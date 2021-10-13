@@ -14,6 +14,8 @@ hidden: true
 
 ## Austin
 
+<hr>
+
 ## Jon
 
 <div class="row">
@@ -78,6 +80,8 @@ hidden: true
     <div class="col"> CBJ </div>
     <div class="col"> BUF </div>
 </div>
+
+<hr>
 
 ## Kyle
 
