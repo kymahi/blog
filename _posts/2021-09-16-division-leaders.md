@@ -47,7 +47,7 @@ hidden: false
   </div>
   <div class="row">
     <div class="col">
-      <b>Austin</b>
+      <b>Jon</b>
     </div>
     <div class="col">
       Golden Knights
