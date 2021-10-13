@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Division Leader Predictions"
+title:  "2021 Division Leader Predictions"
 author: [ kyle, jon, austin ]
-categories: [ Pacific, Atlantic, Central, Metropolitan, Predictions ]
+categories: [ Pacific, Atlantic, Central, Metropolitan, Predictions, 21-22 Season ]
 tags: [ pacific, atlantic, central, metropolitan, metro, division, leaders, nhl, prediction, podcast ]
 image: /assets/images/nhl_divisions.png
 description: "Austin, Jon, and Kyle predict which teams will take their divisions. Someone (potentailly many someones) might have to eat their words by the end of the season."
@@ -10,6 +10,15 @@ featured: false
 hidden: false
 ---
 
+|----------------+--------------+--------------+-------------+|
+|                |    Austin    |      Jon     |     Kyle     |
+|:---------------|------::------|------::------|------::------|
+|   **Pacific**  |Golden Knights|Golden Knights|    Kraken    |
+|   **Central**  |     Jets     |     Jets     |   Avalanche  |
+|**Metropolitan**|   Islanders  |   Capitals   |  Hurricanes  |
+|  **Atlantic**  |   Lightning  |    Bruins    |  Maple Leafs |
+|================|==============|==============|==============|
+<hr>
 <div class="row">
   <div class="col-xl-12">
   <div class="row">
