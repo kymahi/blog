@@ -11,7 +11,7 @@ hidden: false
 ---
 
 <div class="row">
-  <div class="col-xl-12">
+  <div class="col">
   <div class="row">
     <div class="col">
       <div></div>
@@ -27,7 +27,7 @@ hidden: false
     </div>
   </div>
   <div class="row border-top">
-    <div class="col-xl-2">
+    <div class="col">
       <b>Pacific</b>
     </div>
     <div class="col">
@@ -41,7 +41,7 @@ hidden: false
     </div>
   </div>
   <div class="row border-top">
-    <div class="col-xl-2">
+    <div class="col">
       <b>Central</b>
     </div>
     <div class="col">
@@ -55,7 +55,7 @@ hidden: false
     </div>
   </div>
   <div class="row border-top">
-    <div class="col-xl-2">
+    <div class="col">
       <b>Metro</b>
     </div>
     <div class="col">
@@ -69,7 +69,7 @@ hidden: false
     </div>
   </div>
   <div class="row border-top">
-    <div class="col-xl-2">
+    <div class="col">
       <b>Atlantic</b>
     </div>
     <div class="col">
