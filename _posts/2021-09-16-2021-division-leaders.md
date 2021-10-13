@@ -13,17 +13,17 @@ hidden: false
 <div class="row">
   <div class="col-xl-12">
   <div class="row">
-    <div class="col">
+    <div class="col col-xl-2">
       <div></div>
     </div>
     <div class="col">
       <b>Austin</b>
     </div>
     <div class="col">
-      <b>Kyle</b>
+      <b>Jon</b>
     </div>
     <div class="col">
-      <b>Jon</b>
+      <b>Kyle</b>
     </div>
   </div>
   <div class="row border-top">
