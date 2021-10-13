@@ -10,7 +10,11 @@ featured: true
 hidden: true
 ---
 
-#### Rules: Every position off from the predicted ranking loses that person 1 point. The person closest to 0 at the end of the regular season is the winner!
+<br><br>
+
+##### Rules: Every position off from the predicted ranking loses that person 1 point. The person closest to 0 at the end of the regular season is the winner!
+
+<br>
 
 ## Austin
 
