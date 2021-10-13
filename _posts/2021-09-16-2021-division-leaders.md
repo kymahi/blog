@@ -12,7 +12,6 @@ hidden: false
 
 |----------------+--------------+--------------+-------------+|
 |                |    Austin    |      Jon     |     Kyle     |
-
 |:---------------|:------------:|:------------:|:------------:|
 |   
 **Pacific**  |&nbsp;&nbsp;Golden Knights&nbsp;&nbsp;|&nbsp;&nbsp;Golden Knights&nbsp;&nbsp;|    Kraken    |
