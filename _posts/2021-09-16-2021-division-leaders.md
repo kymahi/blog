@@ -31,13 +31,13 @@ hidden: false
       <b>Pacific</b>
     </div>
     <div class="col">
-      Golden Knights
+      VGK
     </div>
     <div class="col">
-      Golden Knights
+      VGK
     </div>
     <div class="col">
-      Kraken
+      SEA
     </div>
   </div>
   <div class="row border-top">
@@ -45,13 +45,13 @@ hidden: false
       <b>Central</b>
     </div>
     <div class="col">
-      Jets
+      WPG
     </div>
     <div class="col">
-      Jets
+      WPG
     </div>
     <div class="col">
-      Avalanche
+      COL
     </div>
   </div>
   <div class="row border-top">
@@ -59,13 +59,13 @@ hidden: false
       <b>Metro</b>
     </div>
     <div class="col">
-      Islanders
+      NYI
     </div>
     <div class="col">
-      Capitals
+      WSH
     </div>
     <div class="col">
-      Hurricanes
+      CAR
     </div>
   </div>
   <div class="row border-top">
@@ -73,13 +73,13 @@ hidden: false
       <b>Atlantic</b>
     </div>
     <div class="col">
-      Lightning
+      TBL
     </div>
     <div class="col">
-      Bruins
+      BOS
     </div>
     <div class="col">
-      Maple Leafs
+      TOR
     </div>
   </div>
   </div>
