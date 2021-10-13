@@ -50,9 +50,9 @@ hidden: true
         <b>Kyle</b>
       </div>
     </div>
-    <div class="row">
+    <div class="row border-top">
       <div class="col">
-        <b>Colorado Avalanche</b>
+        <b>COL</b>
       </div>
       <div class="col text-center">
         <i class="fas fa-level-down-alt fa-2x red"></i>
@@ -64,9 +64,9 @@ hidden: true
         <i class="fas fa-level-down-alt fa-2x red"></i>
       </div>
     </div>
-    <div class="row">
+    <div class="row border-top">
       <div class="col">
-        <b>Chicago Blackhawks</b>
+        <b>CHI</b>
       </div>
       <div class="col text-center">
         <i class="fas fa-level-up-alt fa-2x green"></i>
@@ -78,9 +78,9 @@ hidden: true
         <i class="fas fa-level-up-alt fa-2x green"></i>
       </div>
     </div>
-    <div class="row">
+    <div class="row border-top">
       <div class="col">
-        <b>Winnipeg Jets</b>
+        <b>WPG</b>
       </div>
       <div class="col text-center">
         <i class="fas fa-level-up-alt fa-2x green"></i>
@@ -92,9 +92,9 @@ hidden: true
         <i class="fas fa-level-up-alt fa-2x green"></i>
       </div>
     </div>
-    <div class="row">
+    <div class="row border-top">
       <div class="col">
-        <b>Arizona Coyotes</b>
+        <b>ARI</b>
       </div>
       <div class="col text-center">
         <i class="fas fa-level-down-alt fa-2x red"></i>
@@ -106,9 +106,9 @@ hidden: true
         <i class="fas fa-level-down-alt fa-2x red"></i>
       </div>
     </div>
-    <div class="row">
+    <div class="row border-top">
       <div class="col">
-        <b>Nashville Predators</b>
+        <b>NSH</b>
       </div>
       <div class="col text-center">
         <i class="fas fa-level-down-alt fa-2x red"></i>
@@ -120,9 +120,9 @@ hidden: true
         <i class="fas fa-level-down-alt fa-2x red"></i>
       </div>
     </div>
-    <div class="row">
+    <div class="row border-top">
       <div class="col">
-        <b>Minnesota Wild</b>
+        <b>MIN</b>
       </div>
       <div class="col text-center">
         <i class="fas fa-equals fa-2x"></i>
@@ -134,9 +134,9 @@ hidden: true
         <i class="fas fa-equals fa-2x"></i>
       </div>
     </div>
-    <div class="row">
+    <div class="row border-top">
       <div class="col">
-        <b>Dallas Stars</b>
+        <b>DAL</b>
       </div>
       <div class="col text-center">
         <i class="fas fa-level-up-alt fa-2x green"></i>
@@ -149,9 +149,9 @@ hidden: true
         <i class="fas fa-equals fa-2x"></i>
       </div>
     </div>
-    <div class="row">
+    <div class="row border-top">
       <div class="col">
-        <b>St. Louis Blues</b>
+        <b>STL</b>
       </div>
       <div class="col text-center">
         <i class="fas fa-equals fa-2x"></i>
