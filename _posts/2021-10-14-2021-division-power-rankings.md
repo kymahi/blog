@@ -6,8 +6,8 @@ categories: [ Predictions, 21-22 Season ]
 tags: [ division, nhl, prediction, podcast ]
 image: /assets/images/nhl_divisions.png
 description: "Austin, Jon, and Kyle rank each divisions team and guess where each team will land. Winner gets a free mystery box jersey!"
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 <br><br>
