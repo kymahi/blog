@@ -5,7 +5,7 @@ author: [ kyle, jon, austin ]
 categories: [ Pacific, Predictions, 21-22 Season ]
 tags: [ pacific, division, nhl, prediction, podcast ]
 image: /assets/images/pac_bow.png
-description: "Austin, Jon, and Kyle judge each Pacific team's off-season adds, losses, and trades. How does each team stack up?"
+excerpt: "Austin, Jon, and Kyle judge each Pacific team's off-season adds, losses, and trades. How does each team stack up?"
 featured: false
 hidden: false
 ---
