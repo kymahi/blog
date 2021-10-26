@@ -131,7 +131,7 @@ hidden: false
     <div class="col"> MIN </div>
     <div class="col"> LAK </div>
     <div class="col"> MTL </div>
-    <div class="col"> PIT </div>
+    <div class="col"> DET </div>
 </div>
 <div class="row border-top">
     <div class="col"> VAN </div>
