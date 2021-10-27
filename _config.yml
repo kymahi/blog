@@ -15,7 +15,7 @@ authors:
   kyle:
     name: Kyle
     display_name: Kyle
-    avatar: 'assets/images/kyle_author.png'
+    avatar: assets/images/kyle_author.png
     email: bestpuckin@gmail.com
     web: https://bestpuckin.com
     twitter: https://twitter.com/bestpuckin
@@ -23,7 +23,7 @@ authors:
   jon:
     name: Jon
     display_name: Jon    
-    avatar: 'assets/images/jon_author.png'
+    avatar: assets/images/jon_author.png
     email: bestpuckin@gmail.com
     web: https://bestpuckin.com
     twitter: https://twitter.com/bestpuckin
@@ -31,7 +31,7 @@ authors:
   austin:
     name: Austin
     display_name: Austin    
-    avatar: 'assets/images/austin_author.png'
+    avatar: assets/images/austin_author.png
     email: bestpuckin@gmail.com
     web: https://bestpuckin.com
     twitter: https://twitter.com/bestpuckin
