@@ -6,8 +6,8 @@ categories: [ Jersey Concept, 21-22 Season ]
 tags: [ jersey, concept, nhl, podcast ]
 image: /assets/images/blues_jersey_concept.png
 description: "The next Winter Classic jersey for the St. Louis Blues. Calling it now."
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 Would you buy it?
