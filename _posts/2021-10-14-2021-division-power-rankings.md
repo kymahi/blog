@@ -191,14 +191,14 @@ hidden: false
     <div class="col"> BOS </div>
 </div>
 <div class="row border-top">
+    <div class="col"> VAN </div>
     <div class="col"> MIN </div>
-    <div class="col"> LAK </div>
     <div class="col"> MTL </div>
     <div class="col"> DET </div>
 </div>
 <div class="row border-top">
-    <div class="col"> VAN </div>
-    <div class="col"> MIN </div>
+    <div class="col"> LAK </div>
+    <div class="col"> DAL </div>
     <div class="col"> PHI </div>
     <div class="col"> MTL </div>
 </div>
