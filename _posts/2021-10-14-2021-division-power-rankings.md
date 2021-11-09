@@ -142,7 +142,7 @@ hidden: false
     <div class="col"> OTT </div>
 </div>
 <div class="row border-top">
-    <div class="col"> ANH </div>
+    <div class="col"> ANA </div>
     <div class="col"> ARI </div>
     <div class="col"> CBJ </div>
     <div class="col"> BUF </div>
@@ -203,7 +203,7 @@ hidden: false
     <div class="col"> MTL </div>
 </div>
 <div class="row border-top">
-    <div class="col"> ANH </div>
+    <div class="col"> ANA </div>
     <div class="col"> NSH </div>
     <div class="col"> NJD </div>
     <div class="col"> OTT </div>
