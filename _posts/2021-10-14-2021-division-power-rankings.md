@@ -18,6 +18,69 @@ hidden: false
 
 ## Austin
 
+<div class="row">
+    <div class="col">
+        <b>Pacific</b>
+    </div>
+    <div class="col">
+        <b>Central</b>
+    </div>
+    <div class="col">
+        <b>Metro</b>
+    </div>
+    <div class="col">
+        <b>Atlantic</b>
+    </div>
+</div>
+<div class="row border-top">
+    <div class="col"> VGK </div>
+    <div class="col"> WPG </div>
+    <div class="col"> NYI </div>
+    <div class="col"> TBL </div>
+</div>
+<div class="row border-top">
+    <div class="col"> EDM </div>
+    <div class="col"> COL </div>
+    <div class="col"> CAR </div>
+    <div class="col"> FLA </div>
+</div>
+<div class="row border-top">
+    <div class="col"> VAN </div>
+    <div class="col"> DAL </div>
+    <div class="col"> WSH </div>
+    <div class="col"> TOR </div>
+</div>
+<div class="row border-top">
+    <div class="col"> LAK </div>
+    <div class="col"> STL </div>
+    <div class="col"> NYR </div>
+    <div class="col"> BOS </div>
+</div>
+<div class="row border-top">
+    <div class="col"> CGY </div>
+    <div class="col"> CHI </div>
+    <div class="col"> PHI </div>
+    <div class="col"> MTL </div>
+</div>
+<div class="row border-top">
+    <div class="col"> SJS </div>
+    <div class="col"> MIN </div>
+    <div class="col"> NJD </div>
+    <div class="col"> DET </div>
+</div>
+<div class="row border-top">
+    <div class="col"> ANA </div>
+    <div class="col"> NSH </div>
+    <div class="col"> PIT </div>
+    <div class="col"> OTT </div>
+</div>
+<div class="row border-top">
+    <div class="col"> SEA </div>
+    <div class="col"> ARI </div>
+    <div class="col"> CBJ </div>
+    <div class="col"> BUF </div>
+</div>
+
 <br><br>
 
 ## Jon
