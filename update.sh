@@ -16,7 +16,7 @@ mv _posts/tempOutline _posts/"$oldOutline"
 
 newRankings="$date"-power-rankings-week-"$rankingsWeek".md
 sed "s/spreadsheets\/d\/e\/.*\/pub/spreadsheets\/d\/e\/$rankingsKey\/pub/g" _posts/"$oldRankings" > _posts/"$newRankings"
-sed -E "s/eek [0-9]+/eek $rankingsWeek/gi" _posts/"$newRankings" > _posts/tempRankings
+sed -E "s/eek [0-9][0-9]?[0-9]?[0-9]?/eek $rankingsWeek/gi" _posts/"$newRankings" > _posts/tempRankings
 mv _posts/tempRankings _posts/"$newRankings"
 sed "s/: true/: false/g" _posts/"$oldRankings" > _posts/tempRankings
 mv _posts/tempRankings _posts/"$oldRankings"
